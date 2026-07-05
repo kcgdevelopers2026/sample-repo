@@ -7,9 +7,7 @@ class Main{
         System.out.print("Hello worleeed");
 
         System.out.print("zageee");
-        System.out.print("hiii");
 
-        System.out.print("zageeddddddeascc");
 
     }
 }
